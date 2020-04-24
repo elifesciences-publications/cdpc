@@ -1,5 +1,5 @@
 # cdpc
-Bayesian method to estimate embryonic age for mouse embryos, as in Hayden et al, submitted.
+Bayesian method to estimate embryonic age for mouse embryos, as in Hayden et al, 2020. https://doi.org/10.7554/eLife.50103
 
 ## Construction of the model
 
